@@ -1,2 +1,10 @@
-# Assets Folders
-assets/
+.project
+<<<<<<< HEAD
+.settings/*
+settings.xml
+=======
+.settings
+settings/*
+settings.xml
+test/*
+>>>>>>> 7f57c0096795ebaf26fa439815ac8718d211d182
