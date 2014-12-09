@@ -1,4 +1,2 @@
-*
-!*/
-!*.cfm
-!.gitignore
+assets
+*.css
