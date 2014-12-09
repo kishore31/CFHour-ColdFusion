@@ -1,2 +1,3 @@
 # Ignore CSS & Map File
 *.css
+/assets
