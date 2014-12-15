@@ -21,4 +21,5 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
+*.css linguist-language=ColdFusion
 
